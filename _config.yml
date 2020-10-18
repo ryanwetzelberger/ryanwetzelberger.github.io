@@ -7,7 +7,7 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "page"
   - scope:
       path: ""
       type: "posts"
