@@ -12,15 +12,15 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "default"
+      layout: "post"
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "page"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   
-theme: jekyll-theme-midnight
+remote_theme: chrisrhymes/bulma-clean-theme
