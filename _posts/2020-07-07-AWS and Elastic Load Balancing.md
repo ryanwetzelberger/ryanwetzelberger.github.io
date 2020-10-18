@@ -1,3 +1,6 @@
+---
+title: AWS and Elastic Load Balancing
+---
 Note: I have been clearing looking through some drafts of blogs and came across this one.  This is rather old, but still has some decent content in it.
 
 I just started studying for the AWS Certified Developer Associate Certification.  I used A Cloud Guru's material when studying for my AWS Solutions Architect Associate Certification. Because of the success I had using their material, I am using them for the Developer Associate Certification.  One of the topics covered is Elastic Load Balancing (ELB) and the different types of ELB's that AWS offers.
