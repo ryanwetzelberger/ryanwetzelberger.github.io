@@ -16,9 +16,11 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "page"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  
+theme: bulma-clean-theme
