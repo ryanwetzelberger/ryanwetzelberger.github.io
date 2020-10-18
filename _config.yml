@@ -5,14 +5,10 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
       type: "posts"
     values:
       layout: "post"
+	  author: "Ryan Wetzelberger"
   - scope:
       path: ""
     values:
