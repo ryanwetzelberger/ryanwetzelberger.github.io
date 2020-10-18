@@ -1,3 +1,6 @@
+---
+title: Connecting to a Raspberry Pi the First Time
+---
 Recently, I wanted to start a few projects utilizing a Raspberry Pi. My philosophy when it comes to tech is automate as much as possible. Naturally, I wanted to automate deployments of my projects to the Raspberry Pi. However, I need to figure out how to easily connect to it the first time.
 
 I am utilizing the Raspbian Operating System on my Raspberry Pi. It is the recommended OS for the Raspberry Pi, and it is based on Debian Linux. I am very familiar with Linux growing up outside of the world of Windows. One crucial package provides functionality for mDNS.

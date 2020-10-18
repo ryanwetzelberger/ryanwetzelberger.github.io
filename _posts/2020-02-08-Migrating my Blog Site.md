@@ -1,3 +1,6 @@
+---
+title: Migrating my Blog Site
+---
 Renewals came up on my hosting service for my blog site. So I thought it would be a good time to figure out the shortcomings of my hosting service and start shopping around.
 
 The first thing I found that I needed from my hosting service was an affordable option for site encryption. My former hosting service didn't provide one. I loved what I was seeing with LetsEncrypt. It constantly rotates the certificate, and web browsers accepted certificates from LetsEncrypt. Also, it's free!
