@@ -8,7 +8,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-	  author: "Ryan Wetzelberger"
+      author: "Ryan Wetzelberger"
   - scope:
       path: ""
     values:
