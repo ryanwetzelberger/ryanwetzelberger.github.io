@@ -1,3 +1,14 @@
+# Site Settings
+lang: en
+title: Cloud Network Journey
+tagline: Cloud Network Journey
+email: ryan@wetzellabs.com
+description: >
+   My Journey through Learning networking, cloud, and other technologies.
+
+url: "https://www.cloudnetworkjourney.com"
+permalink: pretty
+
 collections:
   authors:
     output: true
