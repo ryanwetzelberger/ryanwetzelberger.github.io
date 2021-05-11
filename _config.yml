@@ -7,6 +7,12 @@ description: >
    My Journey through Learning networking, cloud, and other technologies.
 
 url: "https://www.cloudnetworkjourney.com"
+
+# custom navigation
+header_pages:
+  - about.md
+  - tutorial.md
+
 # permalink: pretty
 
 #collections:
@@ -32,6 +38,9 @@ plugins:
   
 #remote_theme: chrisrhymes/bulma-clean-theme
 remote_theme: minima
+
+minima:
+	skin: dark
 
 paginate: 5
 paginate_path: "/blog/page:num"
