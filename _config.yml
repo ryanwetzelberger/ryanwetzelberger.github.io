@@ -7,11 +7,11 @@ description: >
    My Journey through Learning networking, cloud, and other technologies.
 
 url: "https://www.cloudnetworkjourney.com"
-permalink: pretty
+# permalink: pretty
 
-collections:
-  authors:
-    output: true
+#collections:
+#  authors:
+#    output: true
 
 #defaults:
 #  - scope:
