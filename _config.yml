@@ -39,7 +39,7 @@ plugins:
 #remote_theme: chrisrhymes/bulma-clean-theme
 remote_theme: minima
 
-minima:
+#minima:
 	#skin: dark
 
 paginate: 5
