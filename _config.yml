@@ -41,5 +41,9 @@ theme: minima
 
 #minima:
 
+twitter_username: rwetzelberger
+github_username:  ryanwetzelberger
+linkedin_username: ryanwetzelberger
+
 paginate: 5
 paginate_path: "/blog/page:num"
