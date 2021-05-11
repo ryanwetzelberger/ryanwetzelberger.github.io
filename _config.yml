@@ -13,17 +13,17 @@ collections:
   authors:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Ryan Wetzelberger"
-  - scope:
-      path: ""
-    values:
-      layout: "page"
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "post"
+#      author: "Ryan Wetzelberger"
+#  - scope:
+#      path: ""
+#    values:
+#      layout: "page"
 
 plugins:
   - jekyll-feed
