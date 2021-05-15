@@ -5,7 +5,7 @@ permalink: /about
 ---
 # Ryan Wetzelberger
 
-I have about 14 years of experience in the technology industry as a whole.  I have worked positions in help desk, network engineering, devops engineering, and automation engineering.
+I have about 14 years of experience in the technology industry.  I have worked positions in help desk, network engineering, devops engineering, and automation engineering.
 
 What excites me:
 
