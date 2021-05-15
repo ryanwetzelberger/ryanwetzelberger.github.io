@@ -1,5 +1,10 @@
-# GitHub Pages Testing
+# Cloud Network Journey
 
 ## Purpose
 
-I am using this repo to mess with GitHub Pages, and mess around with Jekyll.
+I am using this repo to power my blog site, "Cloud Network Journey."
+
+## Technology
+
+* **Host:** GitHub Pages
+* **SSG:** Jekyll
