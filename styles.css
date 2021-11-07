@@ -1,0 +1,10 @@
+* {
+	max-width: 700 px;
+}
+
+span {
+	float: right;
+}
+.technology {
+	font-style: italic;
+}
